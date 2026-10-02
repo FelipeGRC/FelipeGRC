@@ -80,7 +80,7 @@ Plataforma de bodegas de punta a punta: solicitudes de pedido, órdenes de compr
 <td valign="top" width="50%">
 
 ### 🔍 Aqua Origen — trazabilidad QR
-**Tech Lead &amp; Desarrollador** · AquaChile
+**Desarrollador** · AquaChile
 
 Escaneo de QR en empaques que expone la trazabilidad completa del producto al cliente final, consolidando en tiempo real datos de múltiples orígenes de datos.
 
